@@ -2,6 +2,8 @@
 
 // Complete this algo
 const binarySearch = (array, target) => {
+	let index = Math.floor(array.length/2)
+
 	
 };
 
